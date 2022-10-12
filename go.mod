@@ -1,4 +1,4 @@
-module urlshort
+module github.com/mouad-eh/urlshort
 
 go 1.19
 
